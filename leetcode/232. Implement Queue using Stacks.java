@@ -36,4 +36,4 @@ class MyQueue {
     public boolean empty() {
         return in_stack.isEmpty() && out_stack.isEmpty();
     }
-}
+}   
